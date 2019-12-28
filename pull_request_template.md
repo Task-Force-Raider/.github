@@ -12,16 +12,6 @@ Write short description about this pull request
 by replacing this comment block
 -->
 
-### Content:
-- [ ] Content 1
-- [ ] Content 2
-- [ ] Content 3
-
-<!--
-Add things which are part of this pull request as checkboxes
-to show if it's already finished and already part of the pull request.
--->
-
 ### Successfully tested on:
 - [ ] Local Server
 - [ ] Dedicated Server
